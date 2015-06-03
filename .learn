@@ -8,4 +8,3 @@ assessments:
     - Has a readme.
     - Exemplifies DRY code.
     - Local tests pass.
-    - Running 'rails server' initiates a working local application. 
