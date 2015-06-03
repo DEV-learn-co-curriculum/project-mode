@@ -8,3 +8,4 @@ assessments:
     - Has a readme.
     - Exemplifies DRY code.
     - Local tests pass.
+    - Has tests.
