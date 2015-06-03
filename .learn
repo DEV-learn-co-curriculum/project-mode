@@ -4,8 +4,11 @@ languages:
   - ruby
 assessments:
   - fork
-  - review:
-    - Has a readme.
-    - Exemplifies DRY code.
-    - Local tests pass.
-    - Has tests.
+  - reviews:
+    - peers: 4
+    - instructors: 2
+    - rubric:
+      - Has a readme.
+      - Exemplifies DRY code.
+      - Local tests pass.
+      - Has tests.
