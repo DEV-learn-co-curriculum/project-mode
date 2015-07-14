@@ -2,13 +2,12 @@ tags:
   - project mode
 languages:
   - ruby
-assessments:
-  - fork
-  - reviews:
-    - peers: 4
-    - instructors: 2
-    - rubric:
-      - Has a readme.
-      - Exemplifies DRY code.
-      - Local tests pass.
-      - Has tests.
+project:
+  - peer-reviews: 2
+  - instructor-reviews: 1
+  - rubric:
+    - Has a readme.
+    - Exemplifies DRY code.
+    - Local tests pass.
+    - Has tests.
+  - perform-reviews: 1
